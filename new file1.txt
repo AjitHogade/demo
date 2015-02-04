@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-new file after deleting
-want to conflict now
-=======
-New file after deleting
-and this changes are done by ajit88-hogade
->>>>>>> origin/master
+conflict not been resolved
